@@ -1,3 +1,6 @@
 export * from './UserRepo'
 export * from './OtpRepo'
 export * from './repo'
+export * from './BrandRepo'
+export * from './SupCategory'
+export * from './CategoryRepo'

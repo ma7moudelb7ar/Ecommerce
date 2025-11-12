@@ -1,2 +1,5 @@
 export * from "./UserModel"
 export * from "./OtpModel"
+export * from "./BrandModel"
+export * from "./CategoryModel"
+export * from "./SupCategory"
